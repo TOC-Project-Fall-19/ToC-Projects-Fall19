@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Group2_ZeroOneNuke/Scenes/G2_Main_Menu.unity
+    guid: 3140756e52a137447aa9bad32cacc2c7
+  - enabled: 1
+    path: Assets/Group2_ZeroOneNuke/Scenes/G2_L1_PalindromeTM.unity
+    guid: 1593a68cfb2f633468418c612ae3e450
+  - enabled: 1
+    path: Assets/Group2_ZeroOneNuke/Scenes/G2_L2_SarmadTM.unity
+    guid: 976e088c9cb83094e8031f6810388195
+  - enabled: 1
+    path: Assets/Group2_ZeroOneNuke/Scenes/G2_L3_ShoaibTM.unity
+    guid: 97cda373ca397c345b829665a795a2a3
+  - enabled: 1
+    path: Assets/Group2_ZeroOneNuke/Scenes/G2_L4_ShabihTM.unity
+    guid: 30522de53647b9e4db31bcc28ca00ef9
+  m_configObjects: {}
