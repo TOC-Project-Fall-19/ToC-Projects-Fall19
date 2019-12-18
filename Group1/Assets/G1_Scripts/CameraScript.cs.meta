@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 476f477e683125749be35328831a3898
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nodeObject: {instanceID: 0}
+  - accepted_image: {instanceID: 0}
+  - rejected_image: {instanceID: 0}
+  - SoundObject: {instanceID: 0}
+  - inputField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
