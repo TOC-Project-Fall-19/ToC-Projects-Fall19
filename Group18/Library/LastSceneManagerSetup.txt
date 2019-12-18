@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/G18_Scenes/G18_MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

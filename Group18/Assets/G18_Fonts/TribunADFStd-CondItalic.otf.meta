@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: bbd113f109b0a5948952a7c78c161091
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tribun ADF Std
+  fontNames:
+  - Tribun ADF Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 668b6772c3ddc5541a976432a0876ec9, type: 3}
+  - {fileID: 12800000, guid: 640092e5701900447855dfc301d7d0f6, type: 3}
+  - {fileID: 12800000, guid: 1b8ddba8c2a2f66448eeb34be18e6be3, type: 3}
+  - {fileID: 12800000, guid: 70547fda00efc78479d96ecefb89e103, type: 3}
+  - {fileID: 12800000, guid: 8048fb4b41f2d6c44bf620816892d37d, type: 3}
+  - {fileID: 12800000, guid: 9dce8cddc1543cf4199746bda3d100a9, type: 3}
+  - {fileID: 12800000, guid: b3159c4e0fb16f64abd5a2b3fb8f995a, type: 3}
+  - {fileID: 12800000, guid: 8c872d1f0449f3546af7fb37fcc0e2b8, type: 3}
+  - {fileID: 12800000, guid: 6b0b4fff811ae7c468eed7b9b8dc3097, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
